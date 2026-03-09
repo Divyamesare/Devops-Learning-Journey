@@ -1,0 +1,5 @@
+Dockerfile
+README.md
+Example Dockerfile:
+FROM nginx 
+COPY ./usr/share/nginx/html
